@@ -1,0 +1,24 @@
+fatal: detected dubious ownership in repository at 'C:/ESP32/v5.2.2/esp-idf'
+'C:/ESP32/v5.2.2/esp-idf' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-209696669-3020468808-3940077524-1001'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/ESP32/v5.2.2/esp-idf
+fatal: detected dubious ownership in repository at 'C:/ESP32/v5.2.2/esp-idf'
+'C:/ESP32/v5.2.2/esp-idf' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-209696669-3020468808-3940077524-1001'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/ESP32/v5.2.2/esp-idf
+fatal: detected dubious ownership in repository at 'C:/ESP32/v5.2.2/esp-idf/components/openthread/openthread'
+'C:/ESP32/v5.2.2/esp-idf/components/openthread/openthread/.git' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-209696669-3020468808-3940077524-1001'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/ESP32/v5.2.2/esp-idf/components/openthread/openthread
